@@ -1,13 +1,22 @@
-## Dataset Content
-* Describe your dataset
+# ML Business Case
 
+## Dataset Content
+* The dataset is sources from [Kaggle](https://www.Kaggle.com). The dataset was found from a different user but I will apply it to this ficticious case.
+* The dataset contains 27 167 images in total, 17 678 of them are photos of male faces and 9 489 are of female faces. 
 
 ## Business Requirements
-* Describe your business requirements
+* The business requirement is 
 
 
 ## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision to validate it (them) 
+1. 
+* 
+
+2.
+* 
+
+3. 
+* 
 
 
 ## Rationale to map the business requirements to the Data Visualizations and ML tasks
@@ -15,12 +24,15 @@
 
 
 ## ML Business Case
-* In the previous bullet, you potentially visualized a ML task to answer a business requirement. You should frame the business case using the method we covered in the course 
+* In the previous bullet, you potentially visualized a ML task to answer a business requirement. You should frame the business case using the method we covered in the course
+* 
 
 
 ## Dashboard Design
-* List all dashboard pages and its content, either block of information or widgets, like: buttons, checkbox, image, or any other item that your dashboard library supports.
-* Eventually, during the project development, you may revisit your dashboard plan to update a give feature (for example, in the beginning of the project you were confident you would use a given plot to display an insight but eventually you needed to use another plot type)
+* Summary page, to give an overview of the entire project, presenting the business requirements and how the application shows it.
+* Problemsolvning techniques, grasping the idea behind the project and bringing displaying the information clearly.
+* Hypothesis, showing the questions the project intends to answer and how they are validated.
+* ML Pipeline, to describe how the project pipeline works.
 
 
 
